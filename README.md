@@ -7,6 +7,7 @@ ASSUMPTIONS:
 - Assume all "logging" is done to the console.
 - Assume 32 bit build.
 - Assume windows environment.
+- Assume something else is cleaning up the event files.
 
 There are 3 projects in the the overall solution.
 1. EventMonitor - main application.
